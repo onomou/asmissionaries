@@ -1,0 +1,32 @@
++++
+categories = []
+date = "2017-06-08T13:31:14-07:00"
+tags = []
+title = "Hello"
+
++++
+
+A quick trip to the airport and we’re on the plane. The flight is behind schedule, but I’m sure we will be ok. The captain’s chair won’t lock in place,  so he can’t fly the plane. They are replacing it with a new one, and we should be in the air soon. Next stop, Miami. If we make the connection, Georgetown tonight.
+
+So it wasn’t actually that easy. We got a late start yesterday; packing took far too long. How frustrating to see all of the stuff we collected over the years and never used!  More and more we realize how caught up in the world we have been and how little good our material things matter.  We are so thankful for the good friends we have that helped us pack and clean over the last week or so. We could not have made it, both emotionally and physically, without their help. Neighbors packed and hauled boxes, sorted out junk from keepers, and prayed for us. There were several times we were so discouraged we almost quit. But we have made it safely thus far, and we know that our Father in heaven will see us through. That gives us tremendous encouragement – when we can’t see past the present, we look to the past and number blessings behind us.
+
+We already miss you, friends and family. As often as we can, we will pray for you; pray for us too–that God will keep us and use us, and that we will never turn away from the straight and narrow path.
+
+Here is a poem that has encouraged us recently as we looked ahead to our new adventure. May it be an encouragement to you also.
+
+> Peace, perfect peace, in this dark world of sin?  
+> The blood of Jesus whispers peace within.
+> 
+> Peace, perfect peace, by thronging duties pressed?  
+> To do the will of Jesus: this is rest.
+> 
+> Peace, perfect peace, with loved ones far away?  
+> In Jesus’ keeping we are safe, and they.
+> 
+> Peace, perfect peace, our future all unknown?  
+> Jesus we know, and He is on the throne.
+
+**Edward Henry Bickersteth**
+
+\#463 in the SDA Hymnal  
+There are more verses at [hymnary.org](http://www.hymnary.org/text/peace_perfect_peace_in_this_dark_world_o), if you would like to read them.
