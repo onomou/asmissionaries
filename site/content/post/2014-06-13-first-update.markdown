@@ -1,13 +1,12 @@
 +++
-categories = []
-date = "2014-06-13T01:00:00"
-tags = []
+date = "2014-06-13T01:00:00Z"
 title = "First Update"
 
 +++
+
 Dear friends and family,
 
-I am working on an account of our journey to Guyana, but I thought while I am working my way through that complicated narrative you might like to know how we are doing. In brief: we are doing well. Our house is comfortable, and while we are needing to get used to a different level of cleanliness (less clean for more work) we enjoy the fresh air and sunlight that pour in freely. It is hardest to get used to the dirt, which we never seem to fully remove. Cockroaches and mice leave droppings all over the kitchen and there aren’t enough cupboards to be able to have our food and our dishes be inside, so things must be rewashed often.
+I am working on an account of our journey to Guyana, but I thought while I am working my way through that complicated narrative you might like to know how we are doing. In brie = we are doing well. Our house is comfortable, and while we are needing to get used to a different level of cleanliness (less clean for more work) we enjoy the fresh air and sunlight that pour in freely. It is hardest to get used to the dirt, which we never seem to fully remove. Cockroaches and mice leave droppings all over the kitchen and there aren’t enough cupboards to be able to have our food and our dishes be inside, so things must be rewashed often.
 
 Yesterday the termites swarmed, flying inside and outside leaving their wings discarded all over the place. I don’t understand why they do this, and it makes the house feel so dirty, having wings on the counters and beds and floors.
 
@@ -32,4 +31,4 @@ God has been so good to us. We are appreciating His love and care for us more ev
 In His service,
 Alice, Steven, and Grant
 
-PS: Please, send this on to anyone you know who wanted updates and is not on the list, and ask them to shoot us a message so we have their address for next time. Thank you!
+P = Please, send this on to anyone you know who wanted updates and is not on the list, and ask them to shoot us a message so we have their address for next time. Thank you!

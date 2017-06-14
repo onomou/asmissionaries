@@ -1,7 +1,7 @@
 +++
 date = "2016-09-09T10:15:23-04:00"
 draft = false
-title = "about"
+title = "About Us"
 
 +++
 
@@ -11,15 +11,17 @@ Steven and Alice Williams
 Spangle, WA 99031
 
 **Guyana Mailing Address**  
-Steven and Alice Williams
-c/o James Ash
-121 Durban Backlands  
+Steven and Alice Williams  
+c/o Guyana Adventist Ministries and Services  
+PO Box 101570  
 Georgetown, Guyana  
 South America
 
 **Donations**  
-Gospel Ministry International, PO Box 506, Collegedale Tennessee 37315  
-[Gospel Ministries](gospelministry.org)
+Gospel Ministry International  
+PO Box 506  
+Collegedale, Tennessee 37315  
+[gospelministry.org](gospelministry.org)
 
 **Phone Numbers**  
 Steven  
@@ -34,7 +36,7 @@ Alice
 **James Ash**  
 +592-603-5141
 
-**Radio Callsigns**  
+**Ham Radio Callsigns**  
 Steven  
 KF7EPD
 

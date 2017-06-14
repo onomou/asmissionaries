@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Strata"
+title = "As Missionaries"
 theme = "hugo-strata-theme"
 disqusShortname = "@stevenandalicewilliams"
 # Enable Google Analytics by inserting your tracking code
@@ -12,7 +12,7 @@ paginate = 10
 	# To provide some metadata for search engines feel free to add a few
     # information about you and your website.
 	name = "Steven and Alice Williams"
-	description = "Describe your website"
+	description = "Information about the Williams family's work as missionaries"
 
 	# Format dates with Go's time formatting
 	date_format = "2006-01-02"
@@ -28,26 +28,26 @@ paginate = 10
 		# Use Markdown to format the string. This works nearly all over the theme
 		bio = "We're an ordinary family, learning how to serve God more every day."
 		# The icons will be shown if you enter your username
-		twitter = "onomou"
-		github = "onomou"
-		dribbble = ""
+		#twitter = "onomou"
+		#github = "onomou"
+		#dribbble = ""
+		test = "what"
 		facebook = "paruimamissionacademy"
-		googleplus = ""
-		flickr = "onomou"
-		linkedin = ""
+		#googleplus = ""
+		#flickr = "onomou"
+		#linkedin = ""
 
 		copyright = [
-			"&copy; Steven Williams",
-			"Design: [HTML5 UP](//html5up.net)",
-			"Demo Images: [Unsplash](//unsplash.com/)"
+			#"&copy; Steven Williams"
+			#"Design: [HTML5 UP](//html5up.net)",
+			#"Demo Images: [Unsplash](//unsplash.com/)"
 		]
 
 
 	[params.about]
 		hide  = false
 		title = "Steven and Alice as Missionaries"
-		content = "This is the blog of Steven and Alice Williams. We are missionaries serving in the jungles of Guyana, South America."
-
+		content = "This is the blog of Steven and Alice Williams. We are missionaries serving in the jungles of Guyana, South America. Our current post is at Paruima Mission Academy, an Adventist secondary school for the Davis Indians."
 
 	[params.portfolio]
 		hide  = true
