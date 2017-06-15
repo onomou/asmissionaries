@@ -18,27 +18,22 @@ Georgetown, Guyana
 South America
 
 **Donations**  
+Williams Family - Guyana  
 Gospel Ministry International  
 PO Box 506  
 Collegedale, Tennessee 37315  
-[gospelministry.org](gospelministry.org)
+[gospelministry.org](http://gospelministry.org/donations/#mail_5942a548580dd)
+
+<a class="coinbase-button" data-code="2840028bf90be6daf07e0d9028cae70a" data-button-style="custom_small" href="https://www.coinbase.com/checkouts/2840028bf90be6daf07e0d9028cae70a">Donate Bitcoins</a><script src="https://www.coinbase.com/assets/button.js" type="text/javascript"></script>
 
 **Phone Numbers**  
-Steven  
-(509) 252-0564
-
-Alice  
-(509) 730-5689
-
-**GAMAS Flight Base**  
-+592-227-2184
-
-**James Ash**  
-+592-603-5141
+Steven   |    (509) 252-0564  
+Alice    |    (509) 730-5689
+GAMAS Flight Base    |    +592-227-2184
+James Ash, Chief Pilot    |    +592-603-5141
 
 **Ham Radio Callsigns**  
-Steven  
-KF7EPD
+Steven    |    KF7EPD
 
 **GAMAS HF Frequency**  
 5.895kHz LSB
