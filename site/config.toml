@@ -4,7 +4,7 @@ title = "As Missionaries"
 theme = "hugo-strata-theme"
 disqusShortname = "@stevenandalicewilliams"
 # Enable Google Analytics by inserting your tracking code
-googleAnalytics = ""
+googleAnalytics = "UA-57021421-1"
 # Define how many posts should appear on a site
 paginate = 10
 
@@ -47,7 +47,7 @@ paginate = 10
 	[params.about]
 		hide  = false
 		title = "Steven and Alice as Missionaries"
-		content = "This is the blog of Steven and Alice Williams. We are missionaries serving in the jungles of Guyana, South America. Our current post is at Paruima Mission Academy, an Adventist secondary school for the Davis Indians."
+		content = "This is the blog of Steven and Alice Williams. We are volunteer missionaries serving in the jungles of Guyana, South America. Our current post is at Paruima Mission Academy, an Adventist secondary school for the Davis Indians."
 
 	[params.portfolio]
 		hide  = true
